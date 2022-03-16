@@ -1,0 +1,42 @@
+#entete {
+    display: block;
+    height: 50px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+pre {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+
+.img {
+    margin-left: 100px;
+    width: 500px;
+    height: 500px;
+}
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    width: 600px;
+}
+#retour {
+    display: block;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 200px;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    text-decoration: none;
+}
+#retour:hover {
+    opacity: 0.7;
+    width: 202px;
+}
+
